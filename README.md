@@ -1,5 +1,5 @@
 # Sobre
-Este repositório contempla a documentação do Blog Feudal, desenvolvido para a disciplina de Desenvolvimento de Software pelo grupo Azul Hortências no período 2023/02.
+Este repositório contempla a documentação do Blog Feudal, desenvolvido para a disciplina de Desenvolvimento de Software pelo grupo Azul Hortênsias no período 2023/02.
 
 # Integrantes
 
