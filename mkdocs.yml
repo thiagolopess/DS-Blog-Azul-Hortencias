@@ -7,3 +7,4 @@ theme:
 nav:
   - Sobre: index.md
   - Requisitos: requirements.md
+  - Tecnologias: technologies.md
