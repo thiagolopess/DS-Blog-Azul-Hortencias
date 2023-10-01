@@ -3,6 +3,6 @@ Este repositório contempla a documentação do Blog Feudal, desenvolvido para a
 
 # Integrantes
 
-Matrícula | Nome | GitHub | E-mail|
-|:--:|:--:|:--:|:--:|
-| 18/0028260 | Thiago Lopes | [thiagolopess](https://github.com/thiagolopess) | thiago.lopes.santos.tls@gmail.com
+| Foto | Matrícula | Nome | GitHub | E-mail|
+|:--:|:--:|:--:|:--:|:--:|
+| ![Thiago Lopes](docs/assets/members/Thiago_L.png) | 18/0028260 | Thiago Lopes | [thiagolopess](https://github.com/thiagolopess) | thiago.lopes.santos.tls@gmail.com
