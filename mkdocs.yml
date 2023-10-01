@@ -3,8 +3,13 @@ site_name: Blog Feudal - Azul Hortênsias
 theme:
   name: material
   language: 'pt'
+  palette:
+    primary: custom
 
 nav:
   - Sobre: index.md
   - Requisitos: requirements.md
   - Tecnologias: technologies.md
+
+extra_css:
+  - stylesheets/extra.css 
