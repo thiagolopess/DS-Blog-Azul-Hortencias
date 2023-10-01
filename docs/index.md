@@ -18,4 +18,3 @@ O grupo foi dividido em 2 subgrupos, cada um responsável por uma parte do proje
 | Front | Gustavo, Jonas, Vinícius |
 
 A divisão do grupo não limita a participação dos integrantes em apenas uma parte do projeto, e foi feita à partir das preferências dos integrantes, e da experiência de cada um com as tecnologias utilizadas no projeto.
-
