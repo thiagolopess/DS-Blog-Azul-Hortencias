@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Sobre
+Este repositório contempla a documentação do Blog Feudal, desenvolvido para a disciplina de Desenvolvimento de Software pelo grupo Azul Hortências no período 2023/02.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Integrantes
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Matrícula | Nome | GitHub | E-mail|
+|:--:|:--:|:--:|:--:|
+| 18/0028260 | Thiago Lopes | [thiagolopess](https://github.com/thiagolopess) | thiago.lopes.santos.tls@gmail.com
