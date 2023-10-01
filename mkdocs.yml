@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Blog Feudal - Azul Hortências
+
+theme:
+  name: material
+  language: 'pt'
+
