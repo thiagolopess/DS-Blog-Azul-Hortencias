@@ -23,3 +23,5 @@ Para o backend, será utilizado o Java, em conjunto com o framework Spring, que 
 ### Banco de dados
 Para o banco de dados, será utilizado o PostgreSQL, que é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto. O PostgreSQL é um dos sistemas gerenciadores de banco de dados mais utilizados no mercado, contando com uma boa documentação e uma grande comunidade de desenvolvedores.
 
+### Docker
+Para containerizar a aplicação, será utilizado o Docker, que é uma plataforma de código aberto que facilita a criação, o empacotamento e a execução de aplicações dentro de containers. Entre os benefícios, o principal para o contexto do projeto é a facilidade de execução do projeto em diferentes ambientes, por ser tratar de um ambiente isolado, ajudando a evitar problemas de compatibilidade entre diferentes sistemas. 
