@@ -8,6 +8,7 @@ O Blog Feudal é uma aplicação web que tem como principal objetivo facilitar a
 Matrícula | Nome | GitHub | E-mail|
 |:--:|:--:|:--:|:--:|
 | 18/0028260 | Thiago Lopes | [thiagolopess](https://github.com/thiagolopess) | thiago.lopes.santos.tls@gmail.com
+| 1401694784 | Luiz Gustavo Pinheiro | [LuizGPinheiro](https://github.com/LuizGPinheiro) | lg.pinheirodev@gmail.com
 
 # Divisão do grupo
 O grupo foi dividido em 2 subgrupos, cada um responsável por uma parte do projeto. O subgrupo 1 é responsável pelo backend, e o subgrupo 2 é responsável pelo frontend. A divisão do grupo pode ser vista na tabela abaixo:
@@ -17,4 +18,8 @@ O grupo foi dividido em 2 subgrupos, cada um responsável por uma parte do proje
 | Backend | João Victor, Lucas, Thiago |
 | Front | Gustavo, Jonas, Vinícius |
 
-A divisão do grupo não limita a participação dos integrantes em apenas uma parte do projeto, e foi feita à partir das preferências dos integrantes, e da experiência de cada um com as tecnologias utilizadas no projeto.
+A divisão do grupo foi cuidadosamente planejada levando em consideração diversas considerações importantes. Além de considerar as preferências individuais dos integrantes, a experiência de cada membro com as tecnologias utilizadas no projeto também desempenhou um papel crucial nesse processo de divisão.
+
+No entanto, um dos objetivos principais dessa abordagem foi garantir que todos os integrantes, especialmente aqueles com menos experiência, tivessem a oportunidade de adquirir uma compreensão abrangente das várias etapas envolvidas no desenvolvimento de um software. Esta abordagem visa proporcionar um aprendizado valioso para todos os membros, independentemente do nível de experiência inicial.
+
+Ao permitir que todos os integrantes participassem de diferentes partes do projeto, eles puderam ganhar experiência em todas as fases, desde a concepção e planejamento até a implementação, testes e implementação. Isso não apenas ajuda a desenvolver habilidades técnicas, mas também promove uma compreensão mais completa do ciclo de vida de desenvolvimento de software, preparando-os para desafios mais complexos no futuro.
