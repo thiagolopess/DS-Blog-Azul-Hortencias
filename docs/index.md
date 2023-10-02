@@ -8,8 +8,9 @@ O Blog Feudal é uma aplicação web que tem como principal objetivo facilitar a
 Matrícula | Nome | GitHub | E-mail|
 |:--:|:--:|:--:|:--:|
 | 18/0028260 | Thiago Lopes | [thiagolopess](https://github.com/thiagolopess) | thiago.lopes.santos.tls@gmail.com
-| 1401694784 | Luiz Gustavo Pinheiro | [LuizGPinheiro](https://github.com/LuizGPinheiro) | lg.pinheirodev@gmail.com
+| 14/01694784 | Luiz Gustavo Pinheiro | [LuizGPinheiro](https://github.com/LuizGPinheiro) | lg.pinheirodev@gmail.com
 | 19/0092394 | Marcos Vinícius Aguiar | [viniitl](https://github.com/viniitl) | marcosvmaguiar@gmail.com
+| 21/1062965 | Jonas Carlos | [Jonas-Carlos](https://github.com/Jonas-Carlos) | jonascarlos.na@gmail.com
 
 # Divisão do grupo
 O grupo foi dividido em 2 subgrupos, cada um responsável por uma parte do projeto. O subgrupo 1 é responsável pelo backend, e o subgrupo 2 é responsável pelo frontend. A divisão do grupo pode ser vista na tabela abaixo:
