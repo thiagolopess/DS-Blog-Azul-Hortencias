@@ -10,4 +10,5 @@ Este repositório contempla a documentação do Blog Feudal, desenvolvido para a
 | ![Marcos Vinícius Monteiro de Aguiar](docs/assets/members/vini..png) | 19/0092394 | Marcos Vinícius | [viniitl](https://github.com/viniitl) | marcosvmaguiar@gmail.com
 | - | 21/1062965 | Jonas Carlos | [Jonas-Carlos](https://github.com/Jonas-Carlos) | jonascarlos.na@gmail.com
 | - | 23/1026400 | João Victor | [JVSapiencia](https://github.com/JVSapiencia) | jvsapiencia@gmail.com
+| - | 23/1026456 | Lucas Chaves | [lucasitacaramby](https://github.com/lucasitacaramby) | usichaves@gmail.com
 
