@@ -8,6 +8,7 @@ theme:
 
 nav:
   - Sobre: index.md
+  - Cronograma: schedule.md
   - Requisitos: requirements.md
   - Tecnologias: technologies.md
 
