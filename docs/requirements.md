@@ -8,8 +8,28 @@ O resultado da elicitação pode ser encontrado abaixo:
 
 
 ## Priorização dos Requisitos - MVP
-Após a elicitação, os requisitos foram priorizados levando em consideração o escopo, prazo e nível de importância para a aplicação, com o objetivo de se alcançar um MVP à partir dos requisitos previamente elicitados.
+Após a elicitação, os requisitos foram priorizados levando em consideração o escopo, prazo e nível de importância para a aplicação, com o objetivo de se alcançar um MVP (*Minimal Viable Product*) à partir dos requisitos previamente elicitados.
 
 O resultado da priorização pode ser encontrado abaixo:
 
 ![MVP](./assets/requirements/mvp.png)
+
+## Product Backlog
+Após a priorização dos requisitos, foi criado o Product Backlog, que pode ser encontrado abaixo:
+
+| Req | Descrição |
+|:--:|:--:|
+| REQ01 | O sistema deve permitir a gerência de contas de usuários |
+| REQ02 | O sistema deve fornecer uma página para fórum livre |
+| REQ03 | O sistema deve fornecer uma página para atualizações dos escribas |
+| REQ04 | O sistema deve fornecer uma página para avisos e notícias da disciplina |
+| REQ05 | O sistema deve fornecer uma página para materiais de estudos |
+| REQ06 | O sistema deve possuir uma *landing page* |
+| REQ07 | O sistema deve possuir um menu de navegação |
+| REQ08 | A interface do sistema deve possuir uma temática medieval |
+| REQ09 | O sistema deve ser capaz de atribuir o papel de cada usuário (cavaleiro, duque, monarca e conselheiro) |
+
+
+
+
+
