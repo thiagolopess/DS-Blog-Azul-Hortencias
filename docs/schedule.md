@@ -39,7 +39,7 @@ Por se tratar de uma metodologia ágil, o cronograma foi desenvolvido de forma a
 - Desenvolvimento do REQ04.
 - Desenvolvimento do REQ05.
 
-## Sprint 6 - 12/11/2023 a 18/11/2023
+## Sprint 7 - 12/11/2023 a 18/11/2023
 
 - Desenvolvimento do REQ06.
 - Desenvolvimento do REQ07.
