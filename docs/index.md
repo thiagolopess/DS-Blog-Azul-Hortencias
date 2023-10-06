@@ -5,14 +5,14 @@ Este repositório contempla a documentação do Blog Feudal, desenvolvido para a
 O Blog Feudal é uma aplicação web que tem como principal objetivo facilitar a comunicação entre os participantes da disciplina de Desenvolvimento de Software, na FGA (Faculdade do Gama), da Universidade de Brasília.
 
 # Integrantes
-Matrícula | Nome | GitHub | E-mail|
-|:--:|:--:|:--:|:--:|
-| 18/0028260 | Thiago Lopes | [thiagolopess](https://github.com/thiagolopess) | thiago.lopes.santos.tls@gmail.com
-| 14/01694784 | Luiz Gustavo Pinheiro | [LuizGPinheiro](https://github.com/LuizGPinheiro) | lg.pinheirodev@gmail.com
-| 19/0092394 | Marcos Vinícius Aguiar | [viniitl](https://github.com/viniitl) | marcosvmaguiar@gmail.com
-| 21/1062965 | Jonas Carlos | [Jonas-Carlos](https://github.com/Jonas-Carlos) | jonascarlos.na@gmail.com
-| 23/1026400 | João Victor | [JVSapiencia](https://github.com/JVSapiencia) | jvsapiencia@gmail.com
-| 23/1026456 | Lucas Chaves | [lucasitacaramby](https://github.com/lucasitacaramby) | usichaves@gmail.com
+Matrícula | Nome | GitHub | E-mail | Função |
+|:--:|:--:|:--:|:--:|:--:|
+| 23/1026400 | João Victor | [JVSapiencia](https://github.com/JVSapiencia) | jvsapiencia@gmail.com | Duque
+| 21/1062965 | Jonas Carlos | [Jonas-Carlos](https://github.com/Jonas-Carlos) | jonascarlos.na@gmail.com | Vice Duque
+| 23/1026456 | Lucas Chaves | [lucasitacaramby](https://github.com/lucasitacaramby) | usichaves@gmail.com | Cavaleiro
+| 14/01694784 | Luiz Gustavo Pinheiro | [LuizGPinheiro](https://github.com/LuizGPinheiro) | lg.pinheirodev@gmail.com | Cavaleiro
+| 19/0092394 | Marcos Vinícius Aguiar | [viniitl](https://github.com/viniitl) | marcosvmaguiar@gmail.com | Cavaleiro
+| 18/0028260 | Thiago Lopes | [thiagolopess](https://github.com/thiagolopess) | thiago.lopes.santos.tls@gmail.com | Cavaleiro
 
 # Divisão do grupo
 O grupo foi dividido em 2 subgrupos, cada um responsável por uma parte do projeto. O subgrupo 1 é responsável pelo backend, e o subgrupo 2 é responsável pelo frontend. A divisão do grupo pode ser vista na tabela abaixo:
