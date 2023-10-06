@@ -3,7 +3,7 @@ Para mapear o desenvolvimento do software, um cronograma foi desenvolvido de aco
 
 Por se tratar de uma metodologia ágil, o cronograma foi desenvolvido de forma a ser flexível, podendo ser alterado de acordo com as necessidades do projeto.
 
-## Sprint 0 - 17/09/2023 a 23/09/2023
+## Sprint 0 - 11/09/2023 a 23/09/2023
 
 - Treinamentos e estudos sobre as tecnologias utilizadas no projeto.
 
