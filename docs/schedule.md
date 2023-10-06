@@ -1,5 +1,7 @@
 # Cronograma de desenvolvimento
-Para mapear o desenvolvimento do software, um cronograma foi desenvolvido levando em consideração as sprints, e as atividades que serão realizadas em cada uma delas, levando em consideração o backlog do produto, que pode ser encontrado na [tabela](requirements.md#product-backlog).
+Para mapear o desenvolvimento do software, um cronograma foi desenvolvido de acordo com as atividades e os requisitos do software que serão que serão realizadas em cada *Sprint* do projeto, levando em consideração o backlog do produto, que pode ser encontrado na [tabela](requirements.md#product-backlog).
+
+Por se tratar de uma metodologia ágil, o cronograma foi desenvolvido de forma a ser flexível, podendo ser alterado de acordo com as necessidades do projeto.
 
 ## Sprint 0 - 17/09/2023 a 23/09/2023
 

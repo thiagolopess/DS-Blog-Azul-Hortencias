@@ -22,7 +22,7 @@ O grupo foi dividido em 2 subgrupos, cada um responsável por uma parte do proje
 | Backend | João Victor, Lucas, Thiago |
 | Front | Gustavo, Jonas, Vinícius |
 
-A divisão do grupo foi cuidadosamente planejada levando em consideração diversas considerações importantes. Além de considerar as preferências individuais dos integrantes, a experiência de cada membro com as tecnologias utilizadas no projeto também desempenhou um papel crucial nesse processo de divisão.
+A divisão do grupo foi planejada levando em consideração diversas considerações importantes. Além de considerar as preferências individuais dos integrantes, a experiência de cada membro com as tecnologias utilizadas no projeto também desempenhou um papel crucial nesse processo de divisão.
 
 No entanto, um dos objetivos principais dessa abordagem foi garantir que todos os integrantes, especialmente aqueles com menos experiência, tivessem a oportunidade de adquirir uma compreensão abrangente das várias etapas envolvidas no desenvolvimento de um software. Esta abordagem visa proporcionar um aprendizado valioso para todos os membros, independentemente do nível de experiência inicial.
 
