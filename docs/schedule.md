@@ -19,27 +19,26 @@ Por se tratar de uma metodologia ágil, o cronograma foi desenvolvido de forma a
 - Definição da modelagem do banco de dados.
 - Desenvolvimento do protótipo de alta fidelidade.
 
-## Sprint 3 - 08/10/2023 a 14/10/2023
+## Sprint 3 - 31/10/2023 a 04/11/2023
 - Desenvolvimento do REQ01.
 - Desenvolvimento do REQ08.
 
-## Sprint 4 - 15/10/2023 a 21/10/2023
+## Sprint 4 - 06/11/2023 a 11/11/2023
 - Desenvolvimento do REQ01.
 - Desenvolvimento do REQ08.
 
-## Sprint 4 - 22/10/2023 a 28/10/2023
+## Sprint 4 - 13/11/2023 a 18/11/2023
 - Desenvolvimento do REQ02.
-
-## Sprint 5 - 29/10/2023 a 04/11/2023
-- Desenvolvimento do REQ02.
-
-## Sprint 6 - 05/11/2023 a 11/11/2023
-
 - Desenvolvimento do REQ03.
+
+## Sprint 5 - 20/11/2023 a 25/11/2023
+- Desenvolvimento do REQ02.
 - Desenvolvimento do REQ04.
 - Desenvolvimento do REQ05.
 
-## Sprint 7 - 12/11/2023 a 18/11/2023
-
+## Sprint 6 - 27/11/2023 a 02/11/2023
 - Desenvolvimento do REQ06.
 - Desenvolvimento do REQ07.
+
+## Sprint 7 - 04/11/2023 a 09/11/2023
+- Refatorações e Testes.

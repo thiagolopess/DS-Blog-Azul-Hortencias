@@ -7,10 +7,9 @@ O Blog Feudal é uma aplicação web que tem como principal objetivo facilitar a
 # Integrantes
 Matrícula | Nome | GitHub | E-mail | Função |
 |:--:|:--:|:--:|:--:|:--:|
-| 23/1026400 | João Victor | [JVSapiencia](https://github.com/JVSapiencia) | jvsapiencia@gmail.com | Duque
+| 14/01694784 | Luiz Gustavo Pinheiro | [LuizGPinheiro](https://github.com/LuizGPinheiro) | lg.pinheirodev@gmail.com | Duque
 | 21/1062965 | Jonas Carlos | [Jonas-Carlos](https://github.com/Jonas-Carlos) | jonascarlos.na@gmail.com | Vice Duque
 | 23/1026456 | Lucas Chaves | [lucasitacaramby](https://github.com/lucasitacaramby) | usichaves@gmail.com | Cavaleiro
-| 14/01694784 | Luiz Gustavo Pinheiro | [LuizGPinheiro](https://github.com/LuizGPinheiro) | lg.pinheirodev@gmail.com | Cavaleiro
 | 19/0092394 | Marcos Vinícius Aguiar | [viniitl](https://github.com/viniitl) | marcosvmaguiar@gmail.com | Cavaleiro
 | 18/0028260 | Thiago Lopes | [thiagolopess](https://github.com/thiagolopess) | thiago.lopes.santos.tls@gmail.com | Cavaleiro
 
@@ -19,7 +18,7 @@ O grupo foi dividido em 2 subgrupos, cada um responsável por uma parte do proje
 
 | Subgrupo | Integrantes |
 |:--:|:--:|
-| Backend | João Victor, Lucas, Thiago |
+| Backend | Lucas, Thiago |
 | Front | Gustavo, Jonas, Vinícius |
 
 A divisão do grupo foi planejada levando em consideração diversas considerações importantes. Além de considerar as preferências individuais dos integrantes, a experiência de cada membro com as tecnologias utilizadas no projeto também desempenhou um papel crucial nesse processo de divisão.
