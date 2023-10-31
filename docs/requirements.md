@@ -29,6 +29,48 @@ Após a priorização dos requisitos, foi criado o Product Backlog, que pode ser
 | REQ08 | A interface do sistema deve possuir uma temática medieval |
 | REQ09 | O sistema deve ser capaz de atribuir o papel de cada usuário (cavaleiro, duque, monarca e conselheiro) |
 
+## Protótipo de baixa fidelidade
+Foi feito um protótipo de baixa fidelidade para representar a interface do projeto. O protótipo teve como base o Rich Picture que a equipe elegeu para representar o projeto.
+
+As seguintes telas foram contempladas:
+- Home Page
+- Login Page
+- Forum Page    
+- News Page
+- Informations Page
+- Topic Page
+
+Essas telas possibilitam a execução das seguintes ações:
+- Ações da tela inicial
+- Criação de um usuário para login
+- Realizar postagens
+- Atualizar postagens
+- Remover postagens
+- Acesso a página de novidades
+- Acesso a página de informações
+- Acesso a página geral como novos tópicos
+
+### Home Page
+<img src='/docs/assets/prototype/home.png'>
+
+### Login Page
+<img src='/docs/assets/prototype/login.png'>
+
+### Forum Page
+<img src='/docs/assets/prototype/forum.png'>
+
+### News Page
+<img src='/docs/assets/prototype/news.png'>
+
+### Informations Page
+<img src='/docs/assets/prototype/informations.png'>
+
+### Topic Page
+<img src='/docs/assets/prototype/topic.png'>
+
+## Referências
+[Interactive Design Foundation - Prototyping](https://www.interaction-design.org/literature/topics/prototyping#:~:text=Prototyping%20is%20an%20experimental%20process,can%20release%20the%20right%20products.)
+
 
 
 
