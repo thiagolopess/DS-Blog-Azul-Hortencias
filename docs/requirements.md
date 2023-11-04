@@ -33,6 +33,7 @@ Após a priorização dos requisitos, foi criado o Product Backlog, que pode ser
 Foi feito um protótipo de baixa fidelidade para representar a interface do projeto. O protótipo teve como base o Rich Picture que a equipe elegeu para representar o projeto.
 
 As seguintes telas foram contempladas:
+
 - Home Page
 - Login Page
 - Forum Page    
@@ -41,6 +42,7 @@ As seguintes telas foram contempladas:
 - Topic Page
 
 Essas telas possibilitam a execução das seguintes ações:
+
 - Ações da tela inicial
 - Criação de um usuário para login
 - Realizar postagens
@@ -67,6 +69,46 @@ Essas telas possibilitam a execução das seguintes ações:
 
 ### Topic Page
 <img src='/docs/assets/prototype/topic.png'>
+
+## Protótipo de alta fidelidade
+O protótipo de alta fidelidade que desenvolvemos para o nosso site, como parte da disciplina de Design de Sistemas da Universidade de Brasília (UnB), é o resultado de um trabalho meticuloso e dedicado. Esse protótipo representa uma simulação precisa do nosso site, incorporando todos os detalhes visuais e funcionais necessários para proporcionar uma experiência de usuário autêntica, intuitiva, eficiente e visualmente atraente. O protótipo de alta fidelidade é uma etapa crucial no processo de design, permitindo-nos testar e aprimorar a usabilidade do site antes da implementação, garantindo que ele atenda às necessidades e expectativas de nossos usuários.
+
+
+As seguintes telas foram contempladas:
+
+- Home Page
+- Login Page
+- Password Reset Page
+- Forum Page
+- News Page
+- Informations Page
+- Topic Page
+
+Essas telas possibilitam a execução das seguintes ações:
+
+- Ações da tela inicial
+- Criação de um usuário para login
+- Recuperar a senha
+- Realizar postagens
+- Atualizar postagens
+- Remover postagens
+- Acesso a página de novidades
+- Acesso a página de informações
+- Acesso a página geral como novos tópicos
+
+### Home Page
+
+### Login Page
+
+### Password Reset Page
+
+### Forum Page
+
+### News Page
+
+### Informations Page
+
+### Topic Page
 
 ## Referências
 [Interactive Design Foundation - Prototyping](https://www.interaction-design.org/literature/topics/prototyping#:~:text=Prototyping%20is%20an%20experimental%20process,can%20release%20the%20right%20products.)
