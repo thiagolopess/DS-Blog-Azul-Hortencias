@@ -97,12 +97,16 @@ Essas telas possibilitam a execução das seguintes ações:
 - Acesso a página geral como novos tópicos
 
 ### Home Page
+<img src='/docs/assets/prototype2/home2.png'>
 
 ### Login Page
+<img src="/docs/assets/prototype2/login2.png">
 
 ### Password Reset Page
+<img src='/docs/assets/prototype2/password.png'>
 
 ### Forum Page
+<img src='/docs/assets/prototype2/forum2.png'>
 
 ### News Page
 
