@@ -109,10 +109,12 @@ Essas telas possibilitam a execução das seguintes ações:
 <img src='/docs/assets/prototype2/forum2.png'>
 
 ### News Page
+<img src='/docs/assets/prototype2/newspage.png'>
 
 ### Informations Page
 
 ### Topic Page
+<img src='/docs/assets/prototype2/topicpage.png'>
 
 ## Referências
 [Interactive Design Foundation - Prototyping](https://www.interaction-design.org/literature/topics/prototyping#:~:text=Prototyping%20is%20an%20experimental%20process,can%20release%20the%20right%20products.)
