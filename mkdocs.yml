@@ -12,6 +12,8 @@ nav:
   - Requisitos: requirements.md
   - Cronograma: schedule.md
   - Tecnologias: technologies.md
+  - Desenvolvimento:
+    - Prototipação: prototyping.md
 
 extra_css:
   - stylesheets/extra.css 

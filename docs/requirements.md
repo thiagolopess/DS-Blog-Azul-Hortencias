@@ -17,58 +17,18 @@ O resultado da priorização pode ser encontrado abaixo:
 ## Product Backlog
 Após a priorização dos requisitos, foi criado o Product Backlog, que pode ser encontrado abaixo:
 
-| Req | Descrição |
-|:--:|:--:|
-| REQ01 | O sistema deve permitir a gerência de contas de usuários |
-| REQ02 | O sistema deve fornecer uma página para fórum livre |
-| REQ03 | O sistema deve fornecer uma página para atualizações dos escribas |
-| REQ04 | O sistema deve fornecer uma página para avisos e notícias da disciplina |
-| REQ05 | O sistema deve fornecer uma página para materiais de estudos |
-| REQ06 | O sistema deve possuir uma *landing page* |
-| REQ07 | O sistema deve possuir um menu de navegação |
-| REQ08 | A interface do sistema deve possuir uma temática medieval |
+|  Req  |                                               Descrição                                                |
+| :---: | :----------------------------------------------------------------------------------------------------: |
+| REQ01 |                        O sistema deve permitir a gerência de contas de usuários                        |
+| REQ02 |                          O sistema deve fornecer uma página para fórum livre                           |
+| REQ03 |                   O sistema deve fornecer uma página para atualizações dos escribas                    |
+| REQ04 |                O sistema deve fornecer uma página para avisos e notícias da disciplina                 |
+| REQ05 |                      O sistema deve fornecer uma página para materiais de estudos                      |
+| REQ06 |                               O sistema deve possuir uma *landing page*                                |
+| REQ07 |                              O sistema deve possuir um menu de navegação                               |
+| REQ08 |                       A interface do sistema deve possuir uma temática medieval                        |
 | REQ09 | O sistema deve ser capaz de atribuir o papel de cada usuário (cavaleiro, duque, monarca e conselheiro) |
 
-## Protótipo de baixa fidelidade
-Foi feito um protótipo de baixa fidelidade para representar a interface do projeto. O protótipo teve como base o Rich Picture que a equipe elegeu para representar o projeto.
-
-As seguintes telas foram contempladas:
-
-- Home Page
-- Login Page
-- Forum Page    
-- News Page
-- Informations Page
-- Topic Page
-
-Essas telas possibilitam a execução das seguintes ações:
-
-- Ações da tela inicial
-- Criação de um usuário para login
-- Realizar postagens
-- Atualizar postagens
-- Remover postagens
-- Acesso a página de novidades
-- Acesso a página de informações
-- Acesso a página geral como novos tópicos
-
-### Home Page
-<img src='/docs/assets/prototype/home.png'>
-
-### Login Page
-<img src='/docs/assets/prototype/login.png'>
-
-### Forum Page
-<img src='/docs/assets/prototype/forum.png'>
-
-### News Page
-<img src='/docs/assets/prototype/news.png'>
-
-### Informations Page
-<img src='/docs/assets/prototype/informations.png'>
-
-### Topic Page
-<img src='/docs/assets/prototype/topic.png'>
 
 ## Protótipo de alta fidelidade
 O protótipo de alta fidelidade que desenvolvemos para o nosso site, como parte da disciplina de Design de Sistemas da Universidade de Brasília (UnB), é o resultado de um trabalho meticuloso e dedicado. Esse protótipo representa uma simulação precisa do nosso site, incorporando todos os detalhes visuais e funcionais necessários para proporcionar uma experiência de usuário autêntica, intuitiva, eficiente e visualmente atraente. O protótipo de alta fidelidade é uma etapa crucial no processo de design, permitindo-nos testar e aprimorar a usabilidade do site antes da implementação, garantindo que ele atenda às necessidades e expectativas de nossos usuários.
