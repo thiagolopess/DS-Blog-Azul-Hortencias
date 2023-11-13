@@ -14,6 +14,7 @@ nav:
   - Tecnologias: technologies.md
   - Desenvolvimento:
     - Prototipação: prototyping.md
+    - Banco de Dados: database.md
 
 extra_css:
   - stylesheets/extra.css 
